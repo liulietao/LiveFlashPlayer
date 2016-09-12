@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<!-- 右键菜单 -->
+	<rightclickinfo>
+		<item>
+			<title>优酷开放云提供</title>
+			<url>http://open.youku.com</url>
+		</item>
+	</rightclickinfo>
+	
+	<!-- 右上角LOGO-->
+	<logo>
+		<!-- 图片地址 http://open.youku.com/img/44be0871cf1d43cdbc012aaa1b7532e9.png-->
+		<url>assets/logo.png</url>
+		<!-- 0 不可点击 1 可点击 -->
+		<buttonMode>1</buttonMode>
+		<margin>10</margin>
+		<!-- 点击后跳转地址 -->
+		<link>http://open.youku.com</link>	
+	</logo>
+	
+	<!-- 默认音量 -->
+	<volume>70</volume>
+</config>
